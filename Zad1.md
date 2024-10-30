@@ -10,25 +10,29 @@ Stworzyłem konto na Azure. Stworzyłem nową bazę danych MySQL.
 W celu połączenia się za pomocą SSMS do serwera należy ustawić opcję połączeń publicznych. Azure automatycznie wybiera IP komputera. Po ustawieniu wypełniamy dane i łączę się za pomocą Microsoft Entra MFA.  
 <br/>im2
 
-Im3
+<img width="548" alt="IMG2" src="https://github.com/user-attachments/assets/07682f21-3d18-42b9-a9eb-ad7a62a9ce95">
+<img width="896" alt="IMG3" src="https://github.com/user-attachments/assets/49f58e68-5960-459e-a6c2-2176f068bd33">
+
 
 Następnie połączyłem się za pomocą Azure Data Studio. Podobnie do SSMS wykorzystałem Microsoft Entra – MFA do autoryzacji.
 
-Im4
+<img width="837" alt="IMG4" src="https://github.com/user-attachments/assets/5034a8c5-0fd4-4df3-b35d-958f14027d24">
+
 
 Za pomocą połączenia poprzez SSMS wypełniłem bazę 3 rekordami.
 
 Następnie stworzyłem aplikację .NET i dzięki wykorzystanemu connection string:
 
-Im5
+<img width="1040" alt="IMG5" src="https://github.com/user-attachments/assets/ccb6b4ba-bbc0-4223-a820-63684921c0e9">
 
 Pobieram dane w następujący sposób
 
-Im6
+<img width="1044" alt="IMG6" src="https://github.com/user-attachments/assets/24aa9850-4970-42a3-9a14-b1f752d8522c">
 
 Efekt:
 
-Im7
+<img width="1040" alt="IMG7" src="https://github.com/user-attachments/assets/bba432d1-4649-4710-8ddc-0a7856029cd8">
+
 
 Następnie stworzyłem wirtualną maszynę w Azure wykorzystując obraz B2s z resztą ustawień domyślną - WarsawIsNice12!
 
