@@ -1,6 +1,6 @@
-Hostowane na githubie: https://github.com/AtLab12/LabChmurySpraw.git
-
 ### Sprawozdanie wykonania zadanie 2 - Mikołaj Zawada - 336451
+
+Hostowane na githubie: https://github.com/AtLab12/LabChmurySpraw.git
 
 **Transkrypcja mowy z pliku audio**
 
