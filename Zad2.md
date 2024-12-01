@@ -18,3 +18,37 @@ Dodaję pakiet Azure Cognitive Speech SDK
 
 <img width="1316" alt="Screenshot 2024-12-01 at 11 42 42" src="https://github.com/user-attachments/assets/553c25e2-6ef0-4cd5-a2eb-80bb5d04c825">
 
+Stworzyłem program rozwiązujący problem zadania który działa następująco: 
+
+1. Należy podąc ścieżkę do pliku
+<img width="520" alt="Screenshot 2024-12-01 at 14 31 08" src="https://github.com/user-attachments/assets/85ecb557-7b6d-440c-a9fb-2362327a659a">
+
+   
+2. Należy podać kod języka
+<img width="637" alt="Screenshot 2024-12-01 at 14 31 17" src="https://github.com/user-attachments/assets/73921c0d-f36a-4e0e-b982-2ff030307317">
+
+3. Konfiguracja serwisu
+   
+<img width="448" alt="Screenshot 2024-12-01 at 14 31 56" src="https://github.com/user-attachments/assets/6079db30-68e0-454a-ae02-d93d01b4c140">
+
+4. Robienie zapytania do stworzonego wcześniej serwisu
+
+<img width="698" alt="Screenshot 2024-12-01 at 14 32 29" src="https://github.com/user-attachments/assets/dc4d61cd-b60d-47fa-ab3d-00f5766f27c8">
+
+
+5. Odczytywanie odpowiedzi
+
+<img width="561" alt="Screenshot 2024-12-01 at 14 32 40" src="https://github.com/user-attachments/assets/25d8b973-ae61-441d-bfa9-c624763e8840">
+
+
+Stworzyłem sample za pomocą dyktafonu w telefonie po polsku i po angielsku. Ponieważ mój telefon zapisuje nagrania jako pliki .m4a przy wykorzystaniu ffmpeg konwertuje je na .wav
+
+<img width="1496" alt="Screenshot 2024-12-01 at 14 07 01" src="https://github.com/user-attachments/assets/ce97676c-b761-4a33-910c-80bf3cce38ff">
+
+Wynik działania programu w nagraniu po polsku(Wynik poprawny): 
+
+<img width="528" alt="Screenshot 2024-12-01 at 14 33 05" src="https://github.com/user-attachments/assets/2ee4315b-0a31-444b-8eb0-f57b56076cc2">
+
+Wynik działania programu po Angielsku(wynik poprawny):
+
+<img width="529" alt="Screenshot 2024-12-01 at 14 35 00" src="https://github.com/user-attachments/assets/6cec1170-2217-45de-908a-d8ab2a6eb0a4">
